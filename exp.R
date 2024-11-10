@@ -3,9 +3,7 @@
 #                         Codes for simulation with                            #
 ################################################################################
 
-setwd("/home/tos/R/monocovariate_sigma=0.1/exp/NC-/")
-#setwd("/Users/arthur/Documents/TRAVAUX DE RECHERCHE/Écologie/Autocorrélation spatiale/R/Saas/Monocovariate_sigma=0.1/exp/NC-")
-#setwd('/Users/arthur/Desktop/dossier sans titre 4')
+setwd("/path")
 
 ### PACKAGES ###
 
