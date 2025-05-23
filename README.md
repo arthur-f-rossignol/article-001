@@ -1,3 +1,16 @@
 This repository contains supplementary materials related to the following article:
 
 > Rossignol, A.F., Gosselin, F. (**submitted**). Unacknowledging spatial structures affects frequentist inference and predictive performance of hierarchical GLMMs for count data involving SVCs.
+
+In the folder **simulation_analysis**, there are 5 files:
+
+* `code_simulation_uniform_poisson_smoothness=0.5.R`: code for running the data simulation and statistical analysis for scenarios featuring the uniform sampling design, the Poisson distribution, and $$\nu = 0.5$$,
+* `code_simulation_uniform_poisson_smoothness=1.R`: code for running the data simulation and statistical analysis for scenarios featuring the uniform sampling design, the Poisson distribution, and $$\nu = 1$$,
+* `code_simulation_uniform_poisson_smoothness=2.R`: code for running the data simulation and statistical analysis for scenarios featuring the uniform sampling design, the Poisson distribution, and $$\nu = 2$$,
+* `code_simulation_clumped_poisson_smoothness=0.5.R`: code for running the data simulation and statistical analysis for scenarios featuring the clumped sampling design, the Poisson distribution, and $$\nu = 0.5$$,
+* `code_simulation_uniform_NB_smoothness=0.5.R`: code for running the data simulation and statistical analysis for scenarios featuring the uniform sampling design, the negative binomial distribution, and $$\nu = 0.5$$,
+
+In the folder **manuscript**, there are 2 documents:
+
+* the last version of the preprint,
+* the supplementary information to the article.
