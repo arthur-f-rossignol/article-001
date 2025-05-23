@@ -1,15 +1,15 @@
 ################################################################################
 ################################################################################
 ###                                                                          ###
-###      CODE FOR RUNNING A SIMULATION IN THE UNIFORM SAMPLINF DESIGN        ###
-###              WITH POISSON DATA AND MATÉRN SMOOTHNESS = 1                 ###
+###      CODE FOR RUNNING A SIMULATION IN THE UNIFORM SAMPLING DESIGN        ###
+###              WITH POISSON DATA AND MATÉRN SMOOTHNESS = 2                 ###
 ###                Arthur F. Rossignol & Frédéric Gosselin                   ###
 ###                                  2025                                    ###
 ###                                                                          ###
 ################################################################################
 ################################################################################
 
-setwd("path/to/directory")
+setwd("~/path/to/directory")
 
 #### PACKAGES ####
 
