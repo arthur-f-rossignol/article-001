@@ -80,13 +80,12 @@ BIC <- function(BIC_o_o, BIC_i_o, BIC_s_o, BIC_o_i, BIC_o_s, BIC_i_i, BIC_s_i, B
   return(list("table" = table_model_best_BIC, "delta" = delta_BIC))
 }
 
-plot_results <- function(path, sigma, phi) {
+plot_results <- function(path, m_A, sigma, phi) {
 
   par(family = "Times New Roman")
     
   r <- 1000
     
-  m_A <- 2
   m_B <- 1
   
   log_sigma_A <- log(sigma)
@@ -1136,5 +1135,5 @@ plot_results <- function(path, sigma, phi) {
 ```
 
 ```{r, fig.dim = c(9, 12.5), results = "hide", message = FALSE, echo = FALSE, warning = FALSE}
-plot_results('~/results_to_plot.RData', sigma, phi)
+plot_results('~/results_to_plot.RData', m_A, sigma, phi)
 ```
