@@ -1,8 +1,8 @@
 ################################################################################
 ################################################################################
 ###                                                                          ###
-###      CODE FOR RUNNING A SIMULATION IN THE UNIFORM SAMPLING DESIGN        ###
-###              WITH POISSON DATA AND MATÉRN SMOOTHNESS = 1                 ###
+###      CODE FOR RUNNING A SIMULATION IN THE CLUMPED SAMPLING DESIGN        ###
+###           WITH POISSON COUNT DATA AND MATÉRN SMOOTHNESS = 1              ###
 ###                Arthur F. Rossignol & Frédéric Gosselin                   ###
 ###                                  2025                                    ###
 ###                                                                          ###
