@@ -181,7 +181,7 @@ data_generation <- function(k, D, m_A, m_B, sigma_A, sigma_B, phi, m_X) {
 
   Y <- rep(0, n)
   for (i in 1:n) {
-    Y[i] <- rpois(1, exp(A[i] + B[i] * X[i]))
+    Y[i] <- rnbinom(n = 1, mu = exp(A[i] + B[i] * X[i]), size = 1)
   }
   
   # Output #
