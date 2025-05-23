@@ -13,7 +13,7 @@ In the folder **data_simulation_and_statistical_analysis**, there are 5 files:
 In the folder **performance_analyses**, there is 1 file: 
 * `code_performance_analysis.R`: code for running the performance analysis over the statistical results obtained from the statistical models.
 
-In the folder **plot_results**, there is 1 file: 
+In the folder **result_plotting**, there is 1 file: 
 * `code_plot_results.Rmd`: code for generating the plot of the results of each scenario.
 
 In the folder **estimation_df_Student_t-distribution**, there are the files related to the sub-study for estimating the degrees of freedom of the Stiudent's $$t$$-disitrbution
