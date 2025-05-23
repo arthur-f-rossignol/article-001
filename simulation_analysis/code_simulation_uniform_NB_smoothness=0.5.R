@@ -1,8 +1,8 @@
 ################################################################################
 ################################################################################
 ###                                                                          ###
-###      CODE FOR RUNNING A SIMULATION IN THE UNIFORM SAMPLINF DESIGN        ###
-###              WITH POISSON DATA AND MATÉRN SMOOTHNESS = 1                 ###
+###      CODE FOR RUNNING A SIMULATION IN THE UNIFORM SAMPLING DESIGN        ###
+###      WITH NEGATIVE BINOMIAL COUNT DATA AND MATÉRN SMOOTHNESS = 0.5       ###
 ###                Arthur F. Rossignol & Frédéric Gosselin                   ###
 ###                                  2025                                    ###
 ###                                                                          ###
