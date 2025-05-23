@@ -17,7 +17,7 @@ In the folder **result_plotting**, there are 76 files:
 * `code_plot_results.Rmd`: code for generating the plot of the results of each scenario,
 * the 75 result plots corresponding to the 75 scenarios.
 
-In the folder **estimation_df_Student_t-distribution**, there are the files related to the sub-study for estimating the degrees of freedom of the Stiudent's $$t$$-disitrbution
+In the folder **estimation_df_Student_t-distribution**, there are the files related to the sub-study for estimating the degrees of freedom of the Student's $$t$$-distribution
 
 In the folder **document**, there will be two files:
 
