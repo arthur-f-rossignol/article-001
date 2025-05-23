@@ -19,7 +19,7 @@ In the folder **result_plotting**, there are 76 files:
 
 In the folder **estimation_df_Student_t-distribution**, there are the files related to the sub-study for estimating the degrees of freedom of the Student's $$t$$-distribution
 
-In the folder **document**, there will be two files:
+In the folder **manuscript**, there will be two files:
 
 * the last version of the preprint,
 * the supplementary information to the article.
