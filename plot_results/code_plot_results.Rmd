@@ -1,7 +1,6 @@
 ---
-title: "Plots"
+title: "code_plot_results"
 author: "Arthur F. Rossignol"
-date: "17.07.2024"
 output:
   html_document:
     toc: yes
