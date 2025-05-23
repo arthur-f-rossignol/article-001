@@ -1136,18 +1136,6 @@ plot_results <- function(path, sigma, phi) {
 }
 ```
 
-$\sigma_A$: standard deviation of the variance-covariance matrix of intercept $A$
-
-$\sigma_B$: standard deviation of the variance-covariance matrix of slope $B$
-
-$\phi$: range of the variance-covariance matrix
-
-$\nu$: smoothness parameter of the variance-covariance matrix
-
-$m_X$: mean of the covariate $X$
-
-unif, pois, sigma = 0.5, exp, C, phi = 0.015
-
-```{r, fig.dim = c(9, 12.5), results="hide", message = FALSE, echo = FALSE, warning = FALSE}
-plot_results('/Users/arthur/Desktop/R2/sigma=0.5/exp/C/0.015/results_to_plot.RData', 0.5, 0.015)
+```{r, fig.dim = c(9, 12.5), results = "hide", message = FALSE, echo = FALSE, warning = FALSE}
+plot_results('~/results_to_plot.RData', sigma, phi)
 ```
