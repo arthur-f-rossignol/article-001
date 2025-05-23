@@ -18,7 +18,7 @@ In the folder **plot_results**, there is 1 file:
 
 In the folder **estimation_df_Student_t-distribution**, there are the files related to the sub-study for estimating the degrees of freedom of the Stiudent's $$t$$-disitrbution
 
-In the folder **document**, the
+In the folder **document**, there will be two files:
 
 * the last version of the preprint,
 * the supplementary information to the article.
