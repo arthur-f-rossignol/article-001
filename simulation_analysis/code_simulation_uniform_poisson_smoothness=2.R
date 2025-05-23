@@ -2,7 +2,7 @@
 ################################################################################
 ###                                                                          ###
 ###      CODE FOR RUNNING A SIMULATION IN THE UNIFORM SAMPLING DESIGN        ###
-###              WITH POISSON DATA AND MATÉRN SMOOTHNESS = 2                 ###
+###           WITH POISSON COUNT DATA AND MATÉRN SMOOTHNESS = 2              ###
 ###                Arthur F. Rossignol & Frédéric Gosselin                   ###
 ###                                  2025                                    ###
 ###                                                                          ###
